@@ -12,7 +12,7 @@ function Footer() {
           Rua tito 54 - Lapa <br />
           São Paulo - Brasil
         </p>
-        <div className={styles.container_img_footer}>
+        <div className={styles.img_footer}>
           <img src={Whats} alt="" />
           <img src={Face} alt="" />
           <img src={Insta} alt="" />

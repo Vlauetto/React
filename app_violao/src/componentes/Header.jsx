@@ -6,9 +6,9 @@ function Header() {
       <nav>
         <li><a href="/">Home</a></li>
         <li><a href="/">Quem somos</a></li>
-        <li><a href="/Section_Dois">Instrumentos</a></li>
-        <li><a href="/Section_Tres">Endereço</a></li>
-        <li><a href="/Section_Quatro">Contato</a></li>
+        <li><a href="/">Instrumentos</a></li>
+        <li><a href="/">Endereço</a></li>
+        <li><a href="/">Contato</a></li>
       </nav>
     </header>
   );

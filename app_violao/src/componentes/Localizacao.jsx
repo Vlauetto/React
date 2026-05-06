@@ -1,6 +1,5 @@
 import styles from "../css/Localizacao.module.css"
 
-
 function Localizacao(){
     return(
          <section className={styles.section}>

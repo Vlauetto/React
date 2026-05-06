@@ -4,6 +4,7 @@ footer {
   height: 120px;
   background-color: #000;
   color: #fff;
+  margin-top: 20px;
 }
 
 .container_footer {
@@ -17,7 +18,7 @@ footer {
   margin: 0.2rem;
 }
 
-.container_img_footer {
+.img_footer {
   position: relative;
   width: 20%;
   display: flex;
@@ -26,7 +27,7 @@ footer {
   justify-content: space-around;
 }
 
-.container_img_footer img {
+.img_footer img {
   position: relative;
   width: 30px;
   height: 30px;
